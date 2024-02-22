@@ -68,7 +68,7 @@ function Main(){
                 {renderInput('publishedDateTo', 'Published Date To:', 'date')}
                <hr/>
                 {renderButton("Submit")}
-                {result.length && <table className="table">  
+                {result.length > 0 && <table className="table">  
                 <thead>
                     <tr>
                         <th>Title</th>
