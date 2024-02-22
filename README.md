@@ -3,6 +3,12 @@ Description
 
 This is a UI designed for book retrieval application.
 
+
+Screens
+--------------------------------------------
+Login page : http://localhost:3000/login
+Books page : http://localhost:3000/book
+
 Project Structure
 ------------------------------------------
 
